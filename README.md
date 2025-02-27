@@ -7,3 +7,7 @@ We use YOLOv11 pre-trained model from Ultralytics for object detection. When we 
 https://newatlas.com/uncooled-long-wave-infrared-camera/15637/
 
 In future, we would like to convert the python code to tensorflow lite and deploy in a android mobile for real time detection using video from mobile IR camera attached with vehicles. Also model can be fine tuned with IR images of roads with obstacles for increasing object detection accuracy.
+
+Result :
+
+![result](https://github.com/user-attachments/assets/832f7b07-6e7a-42f8-ac7a-4fac9ba32d86)
